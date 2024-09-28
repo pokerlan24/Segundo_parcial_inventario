@@ -62,5 +62,4 @@ Una vez que ambas aplicaciones estén en funcionamiento, puedes acceder al front
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o un pull request.
 
 ## Licencia
-
-Este proyecto está bajo la Licencia MIT.
+Mi Proyecto, examen parcial de programación 
